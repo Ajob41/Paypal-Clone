@@ -1,0 +1,14 @@
+#class{
+    position: absolute;
+    top: 22px;
+    font-size: 44px;
+}
+#body{
+    background-color: black;
+}
+.cont{
+    background-color: black;
+    left: 300px;
+    position: absolute;
+
+}
